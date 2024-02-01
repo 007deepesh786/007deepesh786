@@ -5,7 +5,7 @@
 -⚙️ Proficient in building robust and scalable applications
 -🕸️ A problem-solving enthusiast with a mastery of data structures and algorithms
 -📊 Constantly exploring new technologies and coding best practices
--📱Let's collaborate and code something amazing! 👨‍💻✨
+-📱Let's collaborate and code something amazing! 👨‍💻
 -#FullStack #MERN #CodeCraftsman
 - 📫 Feel Free to ask about Tech. at -> pathakdeepesh89@gmail.com
 
