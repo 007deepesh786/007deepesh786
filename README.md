@@ -1,7 +1,13 @@
 - 👋 Hi, I’m @007deepesh786
-- 👀 I’m interested in programming through C++ , Web development 
-- 🌱 I’m currently learning Data structures & algorithms
-- 📫 Feel Free to ask about web dev. at -> pathakdeepesh89@gmail.com
+-🚀 MERN Stack Developer
+-💻 Master of Data Structures & Algorithms
+-🌐 Passionate about crafting seamless web experiences with the MERN stack
+-⚙️ Proficient in building robust and scalable applications
+-🕸️ A problem-solving enthusiast with a mastery of data structures and algorithms
+-📊 Constantly exploring new technologies and coding best practices
+-📱Let's collaborate and code something amazing! 👨‍💻✨
+-#FullStack #MERN #CodeCraftsman
+- 📫 Feel Free to ask about Tech. at -> pathakdeepesh89@gmail.com
 
 <!---
 007deepesh786/007deepesh786 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
